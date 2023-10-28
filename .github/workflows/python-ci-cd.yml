@@ -27,4 +27,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        python -m unittestRizky.py
+        python -m unittestRizky
