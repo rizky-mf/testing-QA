@@ -19,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.10  # Atur sesuai versi Python yang Anda gunakan
+        python-version: 3.12  # Atur sesuai versi Python yang Anda gunakan
 
     - name: Install dependencies
       run: |
