@@ -1,7 +1,7 @@
 Jawaban UTS TESTING DAN QA PERANGKAT LUNAK
 
 Nama : Rizky Maolana Firdaus
-NIM : 2010114000134
+NIM : 201011400134
 kelas : 07TPLE007
 
 referensi
