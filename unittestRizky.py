@@ -25,5 +25,5 @@ class Test(unittest.TestCase):
         self.assertEqual(romannumeral(1800),"MDCCC")
 
 if __name__ == '__main__':
-    number_in = raw_input("Enter a number: ")
+    number_in = input("Enter a number: ")
     romannumeral(int(number_in))
