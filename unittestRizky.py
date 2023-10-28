@@ -12,7 +12,6 @@ def romannumeral(number):
                 number = number - value
                 break
     return outstring
-    
 
 class Test(unittest.TestCase):
     def test_9(self):
@@ -26,4 +25,5 @@ class Test(unittest.TestCase):
 
 if __name__ == '__main__':
     number_in = input("Enter a number: ")
-    romannumeral(int(number_in))
+    result = romannumeral(int(number_in))
+    print("Roman numeral:", result)
