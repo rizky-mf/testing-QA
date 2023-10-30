@@ -1,10 +1,10 @@
-Jawaban UTS TESTING DAN QA PERANGKAT LUNAK
+# Jawaban UTS TESTING DAN QA PERANGKAT LUNAK
 
 Nama : Rizky Maolana Firdaus
 NIM : 201011400134
 kelas : 07TPLE007
 
-referensi
+## referensi
 https://www.dicoding.com/blog/white-box-testing/
 https://www.geeksforgeeks.org/software-engineering-white-box-testing/\
 https://www.turing.com/kb/unit-testing-in-python
